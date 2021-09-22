@@ -1,9 +1,9 @@
 R code to replicate results in the paper
 ========================
 
-This repository contains all the supplementary materials of our manuscript. (TO CHANGE LATER)
+This repository contains all the supplementary materials of our manuscript.  
 
-	Zuo Y, Stewart TG, Blume JD. Variable Selection with Second-Generation P-Values. arXiv preprint arXiv:2012.07941. 2020 Dec 15.
+	Zuo Y, Stewart TG, Blume JD. Variable Selection in GLM and Cox Models with Second-Generation P-Values. arXiv preprint arXiv:2109.09851. 2021 September 20.
 
 The table of contents is as follows.  
 
@@ -12,7 +12,7 @@ The table of contents is as follows.
 - [3. simulation.R](#3-simulationr)
 - [4. replication.R](#4-replicationr)
 - [5. data.RData](#5-datardata)
-- [6. r-code-prosgpv-linear.Rproj](#6-r-code-prosgpv-linearrproj)
+- [6. r-code-prosgpv-glm-cox.Rproj](#6-r-code-prosgpv-rproj)
 - [7. Figures](#7-figures)
 	
 
